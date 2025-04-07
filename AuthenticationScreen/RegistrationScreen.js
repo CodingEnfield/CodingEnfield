@@ -5,6 +5,7 @@ const RegistrationScreen=()=>{
     return(
         <View>
             <Text>In RegistrationScreen</Text>
+            <Text>Developer B Make Changes in feture/registration Branch </Text>
         </View>
     )
 }
