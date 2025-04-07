@@ -6,6 +6,8 @@ const RegistrationScreen=()=>{
         <View>
             <Text>In RegistrationScreen Dev A</Text>
             <Text>Developer A Make Changes in feture/regDevA Branch</Text>
+            <Text>New Code Added</Text>
+            <Text> Add new</Text>
         </View>
     )
 }
